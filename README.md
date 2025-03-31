@@ -1,6 +1,7 @@
 <img width="692" alt="cludflare-captcha" src="https://github.com/user-attachments/assets/db0b41fa-d52d-4653-84f8-2f3463ccea36" />
 
-# 🛡️ Cloudflare Bypass Demo
+# ✅ Cloudflare �aptcha solver: Bypass Cloudflare Turnstile and Challenges page
+Use the [Cloudflare captcha solver](https://solvecaptcha.com/captcha-solver/cloudflare-captcha-solver-bypass) to automatically bypass any Cloudflare protection � including Turnstile CAPTCHAs, Managed Challenge pages, JavaScript browser checks, and WAF rate limits.
 
 ## 📖 Overview
 
