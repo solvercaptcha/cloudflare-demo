@@ -4,8 +4,31 @@
 
 Use the [Cloudflare captcha solver](https://solvecaptcha.com/captcha-solver/cloudflare-captcha-solver-bypass) to automatically bypass any Cloudflare protection - including Turnstile CAPTCHAs, Managed Challenge pages, JavaScript browser checks, and WAF rate limits.
 
-# Cloudflare Turnstile and Challenges page bypass
+## Cloudflare Turnstile and Challenges page bypass
+
 To get started quickly, check out the [captcha solver API](https://solvecaptcha.com/captcha-solver-api) documentation.
+
+## 🛠️ Features
+
+- Fast and fully automated Cloudflare bypass
+- Works in **JavaScript**, **Python**, **PHP**, **Java**, **C#** environments
+- Compatible with **Puppeteer** and **Selenium**
+- Smart bypass logic for both CAPTCHA and non-CAPTCHA Cloudflare challenges
+- Lightweight
+- 99.9% solve success rate on supported sites
+- Pay only for successful challenge resolution
+- 24/7 support for developers and bot protection testing teams
+
+ ## 📦 Use Cases
+
+- Web scraping behind Cloudflare-protected domains
+- Bypassing **Cloudflare Turnstile** or challenge pages with headless browsers
+- Automating login or form submissions behind WAF protections
+- Anti-bot resistance testing and QA
+- Integrating challenge bypass into **Puppeteer**, **Playwright**, or **Selenium** workflows
+
+Need help integrating with your Node.js stack or browser automation tools? [Open an issue](https://github.com/solvercaptcha/solvecaptcha-cloudflare/issues) or fork this repo to contribute.
+
 ## 📖 Overview
 
 This example illustrates how to bypass a Cloudflare Challenge page protected by Turnstile CAPTCHA using Puppeteer in combination with SolveCaptcha.
